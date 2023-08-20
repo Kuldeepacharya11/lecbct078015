@@ -1,0 +1,1 @@
+cd "/Users/kuldeepacharya/Desktop/projects/file casting/" && g++ bujayoo.cpp -o bujayoo && "/Users/
